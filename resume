@@ -1,16 +1,4 @@
-<<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <h3>Contact Information</h3>
-    <p> <strong>Email Address</strong>: heather.eloise@gmail.com</p>
-  </body>
-    <hr />
-    <form class="" action="mailto:heather.eloise@gmail.com" method="post" enctype="text/plain">
-      <label>Your Name:</label><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -110,5 +98,43 @@
       <textarea name="name" rows="10" cols="30"></textarea>
       <input type="submit" name="yourMessage"> <br />
     </form>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h3>Contact Information</h3>
+    <p> <strong>Email Address</strong>: heather.eloise@gmail.com</p>
+  </body>
+    <hr />
+    <form class="" action="mailto:heather.eloise@gmail.com" method="post" enctype="text/plain">
+      <label>Your Name:</label>
+      <input type="text" name="yourName" value=""><br />
+      <label>Your Email:</label>
+      <input type="email" name="yourEmail" value=""><br />
+      <label>Your Message:</label>
+      <textarea name="name" rows="10" cols="30"></textarea>
+      <input type="submit" name="yourMessage"> <br />
+    </form>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h3>My Hobbies</h3>
+      1.) <a href="http://www.blazevox.org/BX%20Covers/BXfall13/Heather%20Ceja%20-%20Fall%202013.pdf">Writing </a> <br />
+      2.) Running<br />
+      3.) <a href="https://www.goodreads.com/user/show/16794405-heather">Reading</a><br />
+    </li>
   </body>
 </html>
